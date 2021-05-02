@@ -1,4 +1,3 @@
-# unbound-contrib
-Unbound contributions
+# Unbound contributions
 
 This utilities are the part of Unbound package.
