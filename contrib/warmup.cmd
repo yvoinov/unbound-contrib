@@ -5,7 +5,7 @@ rem -- Warm up DNS cache script by your own MRU domains or from
 rem -- file when it specified as script argument.
 rem --
 rem -- Version 1.3
-rem -- By Yuri Voinov (c) 2014,2022
+rem -- By Yuri Voinov (c) 2014,2023
 rem --------------------------------------------------------------
 
 rem DNS host address
@@ -199,7 +199,6 @@ portal.mail.ru
 positivessl.com
 privoxy.org
 productactivation.one.microsoft.com
-qip.ru
 raidcall.com
 rambler.ru
 rapidssl.com

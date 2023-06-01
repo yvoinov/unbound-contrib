@@ -5,7 +5,7 @@
 # -- file when it specified as script argument.
 # --
 # -- Version 1.4
-# -- Yuri Voinov (c) 2014,2022
+# -- Yuri Voinov (c) 2014,2023
 # --------------------------------------------------------------
 
 # Default DNS host address
@@ -195,7 +195,6 @@ portal.mail.ru
 positivessl.com
 privoxy.org
 productactivation.one.microsoft.com
-qip.ru
 raidcall.com
 rambler.ru
 rapidssl.com
