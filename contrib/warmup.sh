@@ -5,7 +5,7 @@
 # -- file when it specified as script argument.
 # --
 # -- Version 1.4
-# -- Yuri Voinov (c) 2014,2023
+# -- Yuri Voinov (c) 2014-2023
 # --------------------------------------------------------------
 
 # Default DNS host address

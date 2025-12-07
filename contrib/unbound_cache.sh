@@ -4,7 +4,7 @@
 # -- DNS cache save/load script
 # --
 # -- Version 1.2
-# -- By Yuri Voinov (c) 2006, 2014
+# -- By Yuri Voinov (c) 2006-2014
 # --------------------------------------------------------------
 #
 # ident   "@(#)unbound_cache.sh     1.2     14/10/30 YV"

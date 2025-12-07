@@ -5,7 +5,7 @@ rem -- Warm up DNS cache script by your own MRU domains or from
 rem -- file when it specified as script argument.
 rem --
 rem -- Version 1.3
-rem -- By Yuri Voinov (c) 2014,2023
+rem -- By Yuri Voinov (c) 2014-2023
 rem --------------------------------------------------------------
 
 rem DNS host address
